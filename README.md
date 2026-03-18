@@ -1,14 +1,14 @@
 # URF Roadmap
 
-Central roadmap for the Unified Rigidity Framework.
+Structured roadmap for the Unified Rigidity Framework (URF), including milestones, dependencies, and certification phases.
 
-## Closed Results
-- FO^k locality reduction
+## Scope
+- Foundations (Axioms, Capacity, Locality)
+- Chronos / EntropyDepth
+- Spectral Rigidity (YM, RH)
+- Certification / Verifier Layer
+- Applications and Transfer
 
-## Active Work
-- Packing Bound proof details
-- EntropyDepth constant audit
+## Status
+Active development. See Releases for versioned milestones.
 
-## Open Lemmas
-- Clause Contraction Lemma
-- Full deterministic cycle-overlap rigidity
